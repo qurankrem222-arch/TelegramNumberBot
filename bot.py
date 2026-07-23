@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw
 from telebot import types
 
 # --- الإعدادات ---
-TOKEN = 'YOUR_BOT_TOKEN'  # استبدل بـ توكن البوت الخاص بك
+TOKEN = '7943234863:AAFJdmBlDnTBsAWsB6IpEK8pxwu7stgI_i8'  # استبدل بـ توكن البوت الخاص بك
 ADMIN_ID = 61824874
 OWNER_ID = ADMIN_ID  # استخدام نفس معرف المالك
 SUPPORT_USER = "@SocialSMSSUPPORT"
