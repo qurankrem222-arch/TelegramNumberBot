@@ -8,13 +8,13 @@ from PIL import Image, ImageDraw
 from telebot import types
 
 # --- الإعدادات ---
-TOKEN = '7943234863:AAFJdmBlDnTBsAWsB6IpEK8pxwu7stgI_i8'
+TOKEN = 'YOUR_BOT_TOKEN'  # استبدل بـ توكن البوت الخاص بك
 ADMIN_ID = 61824874
 OWNER_ID = ADMIN_ID  # استخدام نفس معرف المالك
 SUPPORT_USER = "@SocialSMSSUPPORT"
 CHANNELS = ['@directionssms', '@Activations223', '@telesms223']
 DELIVERY_CHANNEL_ID = -1004394543430
-API_KEY = 'z4Hj3efMdalD1C0ywx'
+API_KEY = 'z4Hj3efMdalD1C0ywx'  # مفتاح API الخاص بك
 YOUR_ID = 'Your_ID'  # استبدل بـ Your_ID الخاص بك
 
 bot = telebot.TeleBot(TOKEN)
